@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @safouane2007
 - 👀 I’m interested in ethical hacking :===)
 - 🌱 I’m currently learning linux and python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me with discord 
 
 <!---
